@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Xavier Ang</title>
+    <link>https://xavsd89.github.io/xavier_portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Xavier Ang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jul 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://xavsd89.github.io/xavier_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 3: Scientific Summarizer for Augmented Productivity</title>
+      <link>https://xavsd89.github.io/xavier_portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 27 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://xavsd89.github.io/xavier_portfolio/post/chapter-1/</guid>
+      <description>Developed an AI based Scientific Summarizer research assistant to work alongside the human user. The aim of the research assistant is to augment the scientific research process by facilitating focused attention and time savings when the user is searching for relevant content.
+The assistant uses state of the art NLP to produce different levels of summarization for documents. For the Summarization Engines, we used the Hugging Face transformers library, and chose two BERT based contextual embedding models- SciBERT and DistilBERT- to extract the most informative sentences from a document and generate a meaningful summary.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Complaints on Financial Products Topic Identifier</title>
+      <link>https://xavsd89.github.io/xavier_portfolio/post/chapter-3/</link>
+      <pubDate>Thu, 11 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://xavsd89.github.io/xavier_portfolio/post/chapter-3/</guid>
+      <description>Objective of this analysis is to understand the complaints on Financial products or services by consumers from this dataset and categorize them. The classification will be a convinient way for the companies to identify the complaints made to various departments and provide more strategic solutions. I performed this analysis using text data with Plots and Word Cloud on top of the text preprocessing including Text Normalization, Removing Stopwords, Lemmatization, Spelling correction and ultilizing Machine learning and Deep Learning methods to classify text data.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Bird Species Classifier</title>
+      <link>https://xavsd89.github.io/xavier_portfolio/post/chapter-2/</link>
+      <pubDate>Fri, 22 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://xavsd89.github.io/xavier_portfolio/post/chapter-2/</guid>
+      <description>For this example project I built a bird classifier to identify birds from different species. This could be useful for someone who is new to bird hunting or simple identifying of birds. They could take a picture of a bird and an app could serve them some information about the different species of that bird photo. This is the underlying model for building something with those capabilities.
+I was able to get the model to predict the type of the bird with 85% accuracy after minimal tuning.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://xavsd89.github.io/xavier_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xavsd89.github.io/xavier_portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/xavier-ang-874670123   GitHub: https://github.com/xavsd89    </description>
+    </item>
+    
+  </channel>
+</rss>
